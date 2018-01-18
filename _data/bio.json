@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jin Hua Zheng",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/jhz.png",
+    "picture": "https://jinhuafromuhm.github.io/images/jhz.png",
     "email": "jhz@hawaii.edu",
     "phone": "",
     "website": "https:jinhuafromuhm.github.io",
-    "summary": "I am studying Computer Science at the University of Hawaii and I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "": "",
       "postalCode": "",
@@ -24,53 +24,43 @@
         "network": "linkedin",
         "username": "Jin Hua Zheng",
         "url": "https://www.linkedin.com/in/jin-hua-zheng-7866ba156/"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Video games",
       "keywords": [
-        "Video games",
-        "Rubik's cube",
-        "Mobile App"
+        "",
+        "",
+        ""
       ]
     },
     {
-      "name": "",
+      "name": "Rubik's cube",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Mobile App",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "Java",
-        "Javascript",
+        "",
+        "",
     ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "Git/GitHub"
+        ""
       ]
     }
   ],
