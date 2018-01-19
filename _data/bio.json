@@ -2,10 +2,10 @@
   "basics": {
     "name": "Jin Hua Zheng",
     "label": "Student",
-    "picture": "https://jinhuafromuhm.github.io/images/jhz.png",
+    "picture": "https://jinhzheng.github.io/images/jhz.png",
     "email": "jhz@hawaii.edu",
     "phone": "",
-    "website": "https:jinhuafromuhm.github.io",
+    "website": "https:jinhzheng.github.io",
     "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "jinhuafromuhm",
-        "url": "http://jinhuafromuhm.github.io/"
+        "url": "http://jinhzheng.github.io/"
       },
       {
         "network": "linkedin",
