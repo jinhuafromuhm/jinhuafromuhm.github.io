@@ -7,7 +7,7 @@ permalink: projects/Pong
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
---- MIPS Simulator
+- MIPS Simulator
 -
 summary: An assignment from ICS 331 that having a pixel pong bouncing on the display screen by using MIPS Simulator.
 
