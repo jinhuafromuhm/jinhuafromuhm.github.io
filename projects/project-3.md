@@ -1,58 +1,27 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/pong.png
+title: Pong
+permalink: projects/Pong
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-7
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - MIPS Simulator
+summary: An assignment from ICS 331 that having a pixel pong bouncing on the display screen by using MIPS Simulator.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+-ICS 331 had introduced a software called MIPS Assembler and Runtime Simulator, also known as MARS. The assignment about the bouncing pong was using MARS. To complete this assigment I had to draw a 4x4 pixel pong with the file that provided a function call set column from the instructor. And then adding new function that worked with the set column function in order to make the ball move.   
+-
+-In this assignment I was discussing with classmates and TA, and figured out how to draw a 4x4 pong and let it bounce in the display screen. 
+-
+-Here is how to pong look like in MARS:https://jinhzheng.github.io/pong.mp4
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
