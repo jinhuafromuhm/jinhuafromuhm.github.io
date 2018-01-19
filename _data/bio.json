@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "jinhuafromuhm",
+        "username": "jinhzheng",
         "url": "https://jinhzheng.github.io/"
       },
       {
@@ -130,23 +130,10 @@
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
+ 
+   
   ],
   "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
+    
   ]
 }
