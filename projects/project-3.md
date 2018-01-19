@@ -17,7 +17,7 @@ ICS 331 had introduced a software called MIPS Assembler and Runtime Simulator, a
 
 In this assignment I was discussing and working with classmates and TA, and figured out how to draw a 4x4 pong  
 
-Here is the code: [code] (http://jinhzheng.github.io/projects/pong.asm) 
+Here is the code: (http://jinhzheng.github.io/projects/pong.asm) 
 
 
 
