@@ -1,7 +1,7 @@
 ----
 -layout: project
 -type: project
--image: https://jinhzheng.github.io/images/pong.png
+-image: images/pong.png
 -title: Bouncing Pong
 -permalink: projects/Bouncing Pong
 -# All dates must be YYYY-MM-DD format!
