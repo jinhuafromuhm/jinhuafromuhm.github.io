@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-image: images/2018.jpg
 title: Hello 2018
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
 
 ---
-
+<img class="ui tiny right spaced image" src="../images/2018.jpg">
   A new semester comes along with the year of 2018. A new thing for me is I began to learn about JavaScript and in fact I am interested to it. I am a rookie of JavaScript, before this learning opportunity I only have heard about it but not seen or used. Compare to Java, JavaScript is easier for me because from my first week of practice I didn’t have to create a class or start with public static void main (string [] args), and put the burly bracket if I don’t start a function. I realize that most of the arithmetic is like Java, the basic code is easy to understand and use; but I still need to practice more about the array section because I am not getting used to it yet. 
 	
   
