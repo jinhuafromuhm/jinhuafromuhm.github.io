@@ -4,11 +4,11 @@ type: project
 image: images/tutor.jpg
 title: Service Learning: Chinese Tutor
 permalink: prjects/Chinese tutor
-date: 2016
+date: 2016-8-31
 labels:
 -Chinese
 -Service Learning
-summary: A project for Chinese course in Kapiolani Community College. 
+summary: Helping students learning and practice speaking Chinese. 
 ---
 
 The project that I did in Chinese 290 was being a Chinese tutor. The main things of beinng a tutor is to help students practice speaking Chinese in scenarios, and correcting homework. The work is not simple, and it is hard to teach people in English. Chinese is my first language and I can speak fluently, but speaking in English is difficult for me. It was a challenge that explain thing in second language and within the thought of the first language, the process of interpretation is not direct. And being a tutor was not easy because teaching requires responsibility. Because I have to make sure every words I said were correct and didn't mislead the students, otherwise it would be my fault that teaching the wrong thing to the students.
