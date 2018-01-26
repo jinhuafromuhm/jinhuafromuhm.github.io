@@ -39,20 +39,44 @@
     }
   ],
   "skills": [
-    {
-      "name": "Basic Java "
-    }
-  ],
+   {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Meteor",
+        "Prolog",
+        "Common Lisp"
+      ]
+}
+    ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startYear": "2014",
+      "startYear": "2014-08-18",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
-  ]
+  ],
+  "work": [
+    {
+      "company": "Jade Dynasty Seafood Restaurant ",
+      "position": "Busser",
+      "startDate": "2014-06-02",
+      "endDate": "2016-08-14",
+      "summary": "Tables clean up and food delivery",
+    }
+    ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+]
 }
