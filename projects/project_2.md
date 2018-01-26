@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dsm.png
 title: Busser and Programming
-permalink: projects/part time job
+permalink: project/part time job
 date: 2016
 labels:
 - Job experience
@@ -22,21 +22,5 @@ I had a part time job in a Chinese resturant about two years long. My position w
 
 
 
+
 How does this job experience affect me of learning programming. Well first of all, a program has a lots of functions, it would be easy to divide the program into many piece and make every piece works effectively. A good program requires every part works as well as possible. A program works just like people, each one in the team takes charge of his/her task, and the work will be completed when everyone finish what they need to be done. If one person does not do the work correctly, the team might not complete the work correctly. In programming, if a function does not work properly, it might stop the whole program because a mistake has made. And second, to be good at something, practices and experiences are necessary. More times people practice, the more people can learn and master. Practice writing function and learn how does it work, that make them get use to the language and think quickly. 
-
-
-
-
-
-
-
-   
-
-
-
-  
-
-
-
-
-
