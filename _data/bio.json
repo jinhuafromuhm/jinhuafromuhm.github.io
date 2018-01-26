@@ -47,15 +47,8 @@
   "skills": [
     {
       "name": "Basic Java",
-      "level": "",
       "keywords": [
     ]
-    },
-    {
-      "name": "Basic JavaScript",
-      "level": "",
-      "keywords": [
-      ]
     }
   ],
   "education": [
