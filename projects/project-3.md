@@ -15,10 +15,11 @@ ICS 331 had introduced a software called MIPS Assembler and Runtime Simulator, a
 
 
 
-In this assignment I was discussing and working with classmates and TA, the process of this assignment is figured out how to draw a 4x4 pong in 4 columns. And then erased the pong before the pong moves. Next, gave the pong a pattern to move forward and upward; and set the condition that when the pong hit anyside of the wall and the pong would bounce backward.  
+In this assignment I was discussing and working with classmates and TA, the process of this assignment is figured out how to draw a 4x4 pong in 4 columns. And then erased the pong before the pong moves. Next, gave the pong a pattern to move forward and upward, like a fraction slope for a graph. And the last step was to set the condition that the pong hit anyside of the wall the pong would bounce backward.  
 
 
-Here is the [code] (https://github.com/jinhzheng/jinhzheng.github.io/blob/master/projects/pong.asm).
+
+Click [here] (https://github.com/jinhzheng/jinhzheng.github.io/blob/master/projects/pong.asm) to see the code.
 
 
 
