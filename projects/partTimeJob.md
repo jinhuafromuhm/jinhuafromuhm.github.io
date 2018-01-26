@@ -40,5 +40,5 @@ How does this job experience affect me of learning programming. Well first of al
 
 
 
-<img class=" image width=20" src="../images/dsm.png">
+
 
