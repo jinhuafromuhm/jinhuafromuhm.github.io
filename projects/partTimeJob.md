@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/dsm.png
 title: Busser and Programming
 permalink: projects/part time job
 date: 2016
@@ -37,7 +37,6 @@ How does this job experience affect me of learning programming. Well first of al
 
 
 
-<img class=" image width=100" src="../images/dsm.png">
 
 
 
