@@ -29,24 +29,18 @@
   },
   "interests": [
     {
-      "name": "Video games",
-      "keywords": [
-      ]
+      "name": "Video games"
     },
     {
-      "name": "Rubik's cube",
-      "keywords": [
-      ]
+      "name": "Rubik's cube"
     },
     {
-      "name": "Mobile App",
-      "keywords": [
-      ]
+      "name": "Mobile Apps"
     }
   ],
   "skills": [
     {
-      "name": "Basic Java",
+      "name": "Basic Java"
     }
   ],
   "education": [
