@@ -6,7 +6,7 @@ title: Busser and Programming
 permalink: projects/part time job
 date: 2016
 labels:
-- Busser
+- Job experience
 summary: My part time job experience is teaching me how to be a good programmer.
 ---
 
