@@ -1,24 +1,28 @@
 ---
 layout: project
 type: project
-image: images/tutor.jpg
-title: Service Learning: Chinese Tutor
-permalink: projects/Chinese tutor
-date: 2018-01-25
+image: images/dsm.jpg
+title: Busser and programming
+permalink: projects/part time job
+date: 2016
 labels:
-- Chinese
-- Service Learning
-summary: A service learning project for Chinese 290 in Kapiolani Community College.
+- Busser
+summary: My part time job experience is teaching me how to be a good programmer.
 ---
 
-
-There was a project that I did for a Chinese class in 2016, which was to be a tutor in Chinese 101 class. The work I needed to do was Chinese dialogues practice and homework correcting. Chinese is my first language, it is not hard to say the words correctly, but it is a chanllenge to teach non-chinese speaker to pronouce. I had to think about how to interpret the words in English, English and Chinese have different pronounciation: syllable and tone. And sometime sentences can't interpret directly because there are words that can't explain in English. 
-
+I had a part time job in a Chinese resturant about two years long. My position was busser, which was to clean up the table when customers leave and prepare a clean table for the next customers, beside this I had to help the waiters or the waitresses deliever items to the customers such as water and tea. The process of set up the table would be: clean up all the tableware set, clean up the table, and prepare the new set of tableware for the upcoming customers. The most efficient way of working would be working with other bussers that split the work in half, one cleans up and the another one sets the table. But every busser had the own section to take care, this occured only when a busser's section was not busy and like to give one a hand. And another experience was about carry stuff. For example people would hold two glasses of water with both hands, while working in a resturant the workers might learn the skill how to hold two or three glasses of water in one hand and the other hand would hold one more glasses of water. And the skill of carry dishes, which hold three plates in one hand as the shape of a flower, this skill make a big surface and other items can place on the surface and thus bussers can clean up the table effectively.  
 
 
 
-Learning a second language is same as learning a computer language. Understand the elements of the languages, like words and grammar, in computer language, constructor and name of the function. To express the words in different languages, people should follow the rules of the language, then the "expression" can make sense and understand. 
 
+
+
+
+
+
+
+
+How does this job experience affect me of learning programming. Well first of all, a program has a lots of functions, it would be easy to divide the program into many piece and make every piece works effectively. A good program requires every part works as well as possible. A program works just like people, each one in the team takes charge of his/her task, and the work will be completed when everyone finish what they need to be done. If one person does not do the work correctly, the team might not complete the work correctly. In programming, if a function does not work properly, it might stop the whole program because a mistake has made. And second, to be good at something, practices and experiences are necessary. More times people practice, the more people can learn and master. Practice writing function and learn how does it work, that make them get use to the language and think quickly. 
 
 
 
