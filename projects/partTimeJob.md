@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dsm.jpg
+image: images/dsm.png
 title: Busser and programming
 permalink: projects/part time job
 date: 2016
