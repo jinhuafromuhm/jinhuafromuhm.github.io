@@ -2,8 +2,8 @@
 layout: project
 type: project 
 image: images/tutor.jpg
-title: Service Learning: Chinese Tutor
-permalink: prjects/Chinese tutor
+title: Chinese Tutor
+permalink: prject/Chinese tutor
 date: 2016-8-31
 labels:
 -Chinese
