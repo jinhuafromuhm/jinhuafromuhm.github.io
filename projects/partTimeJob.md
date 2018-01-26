@@ -30,7 +30,7 @@ How does this job experience affect me of learning programming. Well first of al
 
 
 
-
+   
 
 
 
