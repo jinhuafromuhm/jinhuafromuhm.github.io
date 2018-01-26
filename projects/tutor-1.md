@@ -20,4 +20,4 @@ The project that I did in Chinese 290 was being a Chinese tutor. The main things
 Speaking of learning language, it is similar to learning computer language. Both learning require two things, following the rules and practices. Rules of learning language would be learning grammar and vocabulary, same as learning computer language. Learing computer language also needs to write in correct constructor and function. And be able to speak fluently, practice is necessary, practices make you think deeper in to the language and make people to be good at them.
 
 
-
+<img class=" image width=20" src="../images/tutor.jpg">
