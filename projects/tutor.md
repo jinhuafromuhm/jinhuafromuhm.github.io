@@ -18,3 +18,22 @@ There was a project that I did for a Chinese class in 2016, which was to be a tu
 
 
 Learning a second language is same as learning a computer language. Understand the elements of the languages, like words and grammar, in computer language, constructor and name of the function. To express the words in different languages, people should follow the rules of the language, then the "expression" can make sense and understand. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
