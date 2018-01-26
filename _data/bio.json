@@ -43,15 +43,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "HTML",
-        "CSS",
-        "Meteor",
-        "Prolog",
-        "Common Lisp"
+        "Javascript"
       ]
 }
     ],
