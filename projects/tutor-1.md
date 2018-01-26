@@ -29,4 +29,4 @@ Speaking of learning language, it is similar to learning computer language. Both
 
 
 
-<img class=" image width=20" src="../images/tutor.jpg">
+
