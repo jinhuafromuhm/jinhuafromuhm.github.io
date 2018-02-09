@@ -8,6 +8,7 @@ labels:
 ---
 <img class=" image width=100" src="../images/js.png">
 
+
 This week I had a great experience of using intelliJ. Eslint with IntelliJ is very convenience for programmers fixing the problem of their code. When a problem occurs, a red line appars and shows what is the mistake I make and the options of how to fix it. A easy way is to click the bulb and fix the problem by the automatically. Sometime a red line occur is not because of making mistake of the code, it is the format of the code that is not formal. For instance, if a there is no space after a comma, the red line will warn me that I have to give a space after a comma. 
 
 
