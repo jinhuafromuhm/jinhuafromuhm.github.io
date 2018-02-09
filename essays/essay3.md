@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Practices and coding standard make good programmer
-date:2018-02-07
+date: 2018-02-07
 labels:
 
 ---
