@@ -16,6 +16,7 @@ IntelliJ is a good tool to practice writing code. Each time I make mistake the m
 
 
 
+
 However, making mistake is a step of learning, coding standard tells you what mistake I make. Understand the mistake and see how to do it correctly, this help me learning coding better. Expecially for me, a javaScript beginner, coding standard is an pair of eyes read through the code I wrote and found out the problem I had, I must say it is very hard for me to read through my own code and find out the mistake. Coding standard really helps me out with finding problems.
 
 
