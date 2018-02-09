@@ -11,9 +11,7 @@ This week I had a great experience of using intelliJ. Eslint with IntelliJ is ve
 
 
 
-
 IntelliJ is a good tool to practice writing code. Each time I make mistake the machine tells us ,"hey you should do this to write your code formally." The more the machine reminds me, I would remember that "I shouldn't do this because red line will occur. " To avoid the red line and achieve the green check mark. I can learn from mistake and stop writing with bad habit. Coding standard, for me is like a list of rules that I have to follow. If I fully obey the rules, I will get green check mark. 
-
 
 
 
