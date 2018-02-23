@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI, Make the Website looks better
+title: Semantic UI Make the Website looks better
 data: 2018-02-22
 labels:
 
