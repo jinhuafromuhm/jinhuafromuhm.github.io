@@ -20,4 +20,4 @@ Using Semantic UI to arrange the content for html and css does need to spend ext
 
 From this week of learning, I could really experience that how to make a good looking website, using elements of Semantic UI. Following the example from the Semantic UI guideline, and think which is a good choice of putting this piece of content on the screen. Just like having a solution of a problem, but try to convert the solution back to the given elements.
 
-
+ 
