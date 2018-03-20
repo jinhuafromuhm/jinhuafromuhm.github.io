@@ -8,7 +8,9 @@ labels:
   - Meteor
 ---
 Teammate: Naryssa, Jin Hua
+
 Overview
+
 Similar to the Study Buddy project, an application can be designed to allow students to form groups to converse in a second language. The goal is to help students improve or maintain speaking skills for another language. This is particularly useful due to the second language requirement, and the diverse population at UH Manoa.
 
 
