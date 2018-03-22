@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea
+title: "Final Project Idea"
 date: 2018-03-20
 labels:
   - Software Engineering
   - Meteor
 ---
 
-Teammate: Naryssa, Jin Hua
+Teammate: Jin Hua
 
 Overview
 
@@ -19,6 +19,7 @@ Similar to the Study Buddy project, an application can be designed to allow stud
 Mockup Page Ideas
 
 Main page will have to links to pages specific to each language. Additionally, a link to a form to request a group for a language not listed. All requests will be listed, such that if a page hasn't been created for a specific language, students can still see if there is interest in a new language group. There can also be a discussion forum for students to discuss topics such as a new language group, external club meetings and events, etc.
+
 
 
 
