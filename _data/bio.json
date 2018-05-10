@@ -44,7 +44,9 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript"
+        "Javascript",
+        "React",
+        "Meteor"
       ]
  }
     ],
@@ -69,7 +71,6 @@
   "references": [
     {
       "name": "Available upon request",
-      "reference": ""
     }
  ]
 } 
