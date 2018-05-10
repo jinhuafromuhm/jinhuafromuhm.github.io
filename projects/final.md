@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/homepage.PNG
+image: images/homepage.png
 permalink: projects/language
 title: Olelo-international
 date: 2018-05-04
