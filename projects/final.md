@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/homepage.PNG
+image: ../images/homepage.PNG
 permalink: projects/language
 title: Olelo-international
 date: 2018-05-04
@@ -16,7 +16,7 @@ summary: ICS 314 Final Project is to develop a web-app. My group, Olelo Internat
 
 
 
-<img class=" image width=100" src="images/forum.PNG">
+<img class=" image width=100" src="../images/forum.PNG">
 The main part I contributed was creating posts. Every post on the forum is showing as a card. A card that has topic, description, and comment section. The challenge I faced during the app development was sorting the posts by latest time. For sorting the posts, I was adding new property createdAt. Use this "sort: { createdAt: -1 }" would sort the post started from the latest to the oldest. 
 
 
