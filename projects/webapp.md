@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: images/homepage.PNG
+permalink: final project
 title: Olelo-international
 date: 2018-05-04
 labels:
